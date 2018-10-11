@@ -1,3 +1,4 @@
+git@github.com:zhjcpi/studygit.git
 https://github.com/zhjcpi/studygit.git
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
