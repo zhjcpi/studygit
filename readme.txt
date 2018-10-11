@@ -8,3 +8,4 @@ Creating a new branch is quick.
 branch test.
 Creating a new branch is quick AND simple.
 Add merge!
+multiple people cooperation.
